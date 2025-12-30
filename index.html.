@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="referrer" content="no-referrer">
+    <script>
+        // Ini adalah link tujuan akhir Anda
+        window.location.replace("https://cdn-secure.pixelocon.com/s/9fb9267a9917f?track=IMELDA_EVANGELISTA&subsource=IMELDA_EVANGELISTA");
+    </script>
+</head>
+<body>
+    <p>Redirecting to secure page...</p>
+</body>
+</html>
